@@ -35,4 +35,6 @@ I got inspired by a Twitter post asking people how they draw their stars, and pe
 
 Side note my definitions and whole premise might be wrong! If you can create a star with a path that doesn't follow the logic here, but my brain and gut tell me that it isn't possible (something with the angles being the same meaning you have to go to the same point every time time) (my rude brain says what if there was a way to create a star where >2 points share a line so that going forward with one angle you could choose two separate points, I'd love to know if there's some weird technicallity where that can happen even if it seems super unlikely)
 
+This also works for compressing the path taken around the degenerate cases, "stars" with points less than 5. (quadrilaterals, triangles)
+
 [1] https://en.wikipedia.org/wiki/Star_polygon#Construction_via_vertex_connection
