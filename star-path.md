@@ -2,6 +2,8 @@
 
 This is a super-obvious thing but I thought it was cool because I independantly discovered it (I haven't searched for if this is written about because I'm not in any math theory circles and wouldn't know what to begin searching for)
 
+This only works for stars you can construct via vertex connection.
+
 If you label the points on a star based on how you draw them (starting with 1 (whatever you set that as, for a 5 pointed star I chose the top-most point), ending at n points) you can represent every other variation of path to draw that star (in two dimensions) with a single integer. I wanted these operations to be able to be single-lines of Python code and here's my first attempt at that.
 
 ```python
@@ -35,6 +37,6 @@ I got inspired by a Twitter post asking people how they draw their stars, and pe
 
 Side note my definitions and whole premise might be wrong! If you can create a star with a path that doesn't follow the logic here, but my brain and gut tell me that it isn't possible (something with the angles being the same meaning you have to go to the same point every time time) (my rude brain says what if there was a way to create a star where >2 points share a line so that going forward with one angle you could choose two separate points, I'd love to know if there's some weird technicallity where that can happen even if it seems super unlikely)
 
-This also works for compressing the path taken around the degenerate cases, "stars" with points less than 5. (quadrilaterals, triangles)
+This also works for compressing the path taken around the degenerate cases, "stars" with points less than 5 (quadrilaterals, triangles).
 
 [1] https://en.wikipedia.org/wiki/Star_polygon#Construction_via_vertex_connection
