@@ -34,7 +34,7 @@ I represent the path taken around each point as the sign of the integer, clockwi
 
 The integer's absolute value is equal to the number of point you start with, the number of times you have to shift the list of points in the path by -1 or 1 (depending on the way you rotate around the points).
 
-I got inspired by a Twitter post asking people how they draw their stars, and people commented on how much variation there was. I wanted to see how much variation there was (I think this is 20 different paths for a regular star polygon with 5 points "by connecting one vertex of a simple, regular, p-sided polygon to another, non-adjacent vertex and continuing the process until the original vertex is reached again" [1])
+I got inspired by a Twitter post asking people how they draw their stars, and people commented on how much variation there was. I wanted to see how much variation there was (for a regular star polygon with 5 points "by connecting one vertex of a simple, regular, p-sided polygon to another, non-adjacent vertex and continuing the process until the original vertex is reached again" [1])
 
 Side note my definitions and whole premise might be wrong! If you can create a star with a path that doesn't follow the logic here, but my brain and gut tell me that it isn't possible (something with the angles being the same meaning you have to go to the same point every time time) (my rude brain says what if there was a way to create a star where >2 points share a line so that going forward with one angle you could choose two separate points, I'd love to know if there's some weird technicallity where that can happen even if it seems super unlikely)
 
