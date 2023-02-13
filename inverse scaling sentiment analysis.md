@@ -19,6 +19,8 @@ Highlighted is the worst model in each category for accuracy in this kind of IMD
 |            | **OPT-1.3b**     | **63.1%** |
 |            | OPT-2.7b         | 68.5%     |
 
+Note: These evaluations were done in 16-bit precision, and 32-bit precision may yield a higher accuracy (73.2% instead of 72.8% for OPT-125M was achieved).
+
 This is loosely inspired by a section from the Forward-Forward paper and implemented code on Github that feeds the label of an MNIST image along with the image itself as postive data during training. In inference you can then feed the image along with each potential label, and take the one that maximizes activations at the end.
 
 One can visualize using this same technique with other generative models for example, Stable diffusion's reconstruction loss, to classify data in the domain that the model generates in.
