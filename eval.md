@@ -1,5 +1,7 @@
 # Puplexity
 ---
+(meme)
+https://twitter.com/aicrumb/status/1650350440008097796
 
 The examination of a language model's (LM) perplexity in response to this and similar phrases serves as an indicator of the model's ability to generalize across diverse subcultures. By assessing the model's performance when confronted with unconventional linguistic patterns and emotive expressions, we can better comprehend the extent to which the LM has effectively captured the nuances and intricacies of various sociolects, thus shedding light on the model's adaptability and potential applicability in real-world linguistic contexts. This analysis was conducted utilizing the complimentary edition of Google Colab, thereby imposing certain limitations on the maximum model size that can be accommodated within the constraints of the computational resources provided by the platform.
 
