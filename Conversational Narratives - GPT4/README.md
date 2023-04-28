@@ -1,6 +1,6 @@
 # AI-Assisted Conversational Narratives: Analyzing Activation Techniques for Enhanced User Engagement
 
-*[Substantially revised by GPT-4 with guidance.]*
+*[Substantially written by GPT-4 with guidance and editing by crumb.]*
 
 In the realm of AI-assisted narrative interactions, two key terms emerge: *narrative user* and *narrative assistant*. These denote the ideal user experience and the desired characteristics of an AI chatbot, respectively. To optimize user engagement, we have developed various activation techniques, including reiteration and explicit activation messages.
 
