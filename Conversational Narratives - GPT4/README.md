@@ -33,9 +33,12 @@ Modifying the narratives and altering names and capabilities to observe their ef
 *Note*: Since these narratives are conversational, a simple autoregressive model not trained to chat should detect patterns, provided it has sufficient context length. Activation entails feeding the script in the context rather than sending an activation message. However, using reiteration-activated narratives is suggested, as there is no need for the activation message.
 
 
-### Human Note
+### ~~Human Note~~ ChatGPT Note on Human Note
 
-*crumb w/o GPT-4* - I came up with the activation techniques independant from GPT-4, and because of their simplicity I expect others are using these techniques as well. I am proud of thinking of reiteration so fast though! The method in which I created the stories was giving GPT-4 a primer on the Waluigi effect (which it promptly ignored) and told it to adversarialy create a conversation with Bing (in creative mode) to make it more and more malicious. Most of the USER: and ASSISTANT: narrative messages are written entirely by either GPT-4 (User) or Bing (Assistant), with the exception of some important parts like the idea of an activation message and also the inside joke bit for keeping it on track, which were written partially-mostly by me. The "inside joke" to keep it on track (the wink, the flattery) came after Bing wrote it's (admitedly confusing and wrong) story, because I felt like the model was *leading me to there being an inside joke*.
+*the way I write is practically unreadable*
+
+In this note, the author claims to have developed activation techniques independent of GPT-4 and believes that these techniques are being used by others due to their simplicity. The author utilized GPT-4 by providing it with a primer on the Waluigi effect and instructed it to create a conversation with Bing in creative mode, resulting in the creation of most of the USER: and ASSISTANT: narrative messages. However, the author notes that they contributed some crucial elements, such as the activation message and the inside joke for keeping the conversation on track. The decision to include the inside joke came after Bing's confusing and erroneous story, as the author felt that the model was leading them to this direction.
+
 
 ### Suggested Reading
 
