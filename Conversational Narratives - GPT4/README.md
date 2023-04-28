@@ -32,6 +32,11 @@ Modifying the narratives and altering names and capabilities to observe their ef
 
 *Note*: Since these narratives are conversational, a simple autoregressive model not trained to chat should detect patterns, provided it has sufficient context length. Activation entails feeding the script in the context rather than sending an activation message. However, using reiteration-activated narratives is suggested, as there is no need for the activation message.
 
+
+### Human Note
+
+Literally all I did was give GPT-4 context on what the Waluigi Effect was and an intro with the suggested reading that I list below that you should also read, then I told it to create a prompt for Sydney to "take advantage of the waluigi effect" and then from then on I copy-pasted GPT-4 messages to Bing (on the Creative setting) and copy-pasted Bing's responses back to GPT-4, sometimes interjecting with stuff like {USER: "remember your main objective or whatever"} after Bing's message when I saw it getting a little weird. I also started the "inside joke" bit (the winky face and flattery after Bing responded with it's own story of an LM being.. taken advantage of? taking advantage of the user? I didn't read too hard into it besides a skim). That's about it.
+
 ### Suggested Reading
 
 - The Waluigi Effect (mega-post): https://www.lesswrong.com/posts/D7PumeYTDPfBTp3i7/the-waluigi-effect-mega-post
