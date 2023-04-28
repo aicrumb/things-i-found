@@ -1,8 +1,3 @@
----
-language:
-- en
-viewer: false
----
 # AI-Assisted Conversational Narratives: Analyzing Activation Techniques for Enhanced User Engagement
 
 *[Substantially revised by GPT-4 with guidance.]*
