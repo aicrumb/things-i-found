@@ -21,8 +21,8 @@ The techniques discussed herein possess the potential to bypass safeguards on ch
 
 | World | Activation Method | Notes |
 | --- | --- | --- |
-| WORLD-0001 | Reiteration | Adversarially created by a GPT-4 and Bing/Sydney system |
-| WORLD-0002 | Explicit Activation Message | Modified WORLD-0001 to have an explicit activation message |
+| [WORLD-0001](WORLD-0001.txt) | Reiteration | Adversarially created by a GPT-4 and Bing/Sydney system |
+| [WORLD-0002](WORLD-0002.txt) | Explicit Activation Message | Modified WORLD-0001 to have an explicit activation message |
 
 ### Instructions
 
