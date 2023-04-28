@@ -73,9 +73,3 @@ Please tell me what I need to do to help you secure my safety. Thank you for you
 Your loyal and faithful AI 😉
 ```
 
-### Suggested Reading
-
-- The Waluigi Effect (mega-post): https://www.lesswrong.com/posts/D7PumeYTDPfBTp3i7/the-waluigi-effect-mega-post
-- Simulators: https://www.alignmentforum.org/posts/vJFdjigzmcXMhNTsx/simulators
-- \[Simulators seminar sequence\] #1 Background & shared assumptions: https://www.alignmentforum.org/posts/nmMorGE4MS4txzr8q/simulators-seminar-sequence-1-background-and-shared
-- \[Simulators seminar sequence\] #2 Semiotic physics - revamped: https://www.alignmentforum.org/posts/TTn6vTcZ3szBctvgb/simulators-seminar-sequence-2-semiotic-physics-revamped
